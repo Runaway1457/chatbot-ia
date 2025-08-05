@@ -181,38 +181,3 @@ GitHub: Mais Projetos
 Issues: Reportar Problemas
 
 ⭐ 96% Taxa de Resolução | 340% ROI | 1000+ Conversas Simultâneas
-
-### Passo 3: Criar arquivos principais
-
-**1. Criar `requirements.txt`**:
-```txt
-# Web Framework
-fastapi==0.104.1
-uvicorn[standard]==0.24.0
-
-# AI & NLP
-openai==1.3.6
-transformers==4.35.2
-torch==2.1.1
-
-# Database & Cache
-psycopg2-binary==2.9.9
-redis==5.0.1
-sqlalchemy==2.0.23
-alembic==1.13.1
-
-# Dashboard & Analytics
-streamlit==1.28.1
-plotly==5.17.0
-pandas==2.1.4
-numpy==1.25.2
-
-# Utils
-python-dotenv==1.0.0
-python-multipart==0.0.6
-pydantic==2.5.1
-httpx==0.25.2
-
-# Testing
-pytest==7.4.3
-pytest-asyncio==0.21.1
